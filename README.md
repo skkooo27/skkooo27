@@ -8,7 +8,7 @@
 - APIs, Flask, and Database Design  
 - AWS Cloud Fundamentals  
 - German  
-- Data Science with Python  
+  
 
 💻 **Tech Stack & Tools**  
 - **Languages:** Python, SQL, HTML/CSS  
@@ -18,7 +18,7 @@
 
 🔭 **Current Projects**  
 - 🏗️ Building backend systems  
-- 📊 Working on data projects as part of the ALX Data Science track  
+
 
 🧘‍♀️ **Outside Tech**  
 - Yoga lover 🧘  
